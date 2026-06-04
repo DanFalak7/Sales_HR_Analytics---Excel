@@ -252,8 +252,8 @@ This project demonstrates **portfolio-ready Excel skills:**
 
 ## Related Projects
 
-- [E-Commerce RFM Analysis (Python + SQL)](https://github.com/DanFalak7/ecommerce-rfm-analysis) — 1M+ transaction customer segmentation
-- [HR Analytics Dashboard (Power BI)](https://github.com/DanFalak7/hr-analytics-powerbi) — Advanced DAX, heatmaps, violin plots
+- [E-Commerce RFM Analysis (Python + SQL)](https://github.com/DanFalak7/E-Commerce-RFM-Analysis) — 1M+ transaction customer segmentation
+- [HR Analytics Dashboard (Power BI)](https://github.com/DanFalak7/HR-Analytics_PowerBI) — Advanced DAX, heatmaps, violin plots
 
 ##  Questions?
 
